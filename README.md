@@ -9,7 +9,7 @@ The idea was inspired by a personal need for structured life planning, bringing 
 
 ---
 
-## 🚀 Project Goals 🚀
+## Project Goals 
 
 - **Unified Asset Management:** Bring all assets together on a single platform for better oversight and efficiency.
 - **Powerful Visualization:** Offer interactive maps and dashboards for real-time tracking.
@@ -20,7 +20,7 @@ The idea was inspired by a personal need for structured life planning, bringing 
 
 ---
 
-## 🛠️ Tech Stack 🛠️
+## Tech Stack 
 
 - **Frontend:** React (desktop-first, mobile-ready)
 - **Backend:** Django REST Framework
@@ -34,7 +34,7 @@ The idea was inspired by a personal need for structured life planning, bringing 
 
 ---
 
-## ✅ Code Quality & Testing ✅
+## Code Quality & Testing 
 
 - Modular and maintainable codebase following best practices in Python and JavaScript
 - Unit and integration tests using Pytest and React Testing Library
